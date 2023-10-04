@@ -1,0 +1,29 @@
+<img style="width:20%;" src="logo.jpg">
+<h1 style="font-size:30px;text-align:center;px 20 px 30 px 40 px 20;color:maroon;">BIGMINDS eLIBRARY AND BOOKSHOP</h1>
+<h2 style="font-size:15;">OUR AIM IS TO PROVIDE A PLATFORM FOR ONE TO INVEST IN THEIR OWN BRAINS.</H2>
+
+<a href="https://www.amazon.com/">josphatmusyoka</a>
+
+<p style="line-height:20px;">Who are we?This is a modern elibrary that was founded in 2023 after a research was done in Africa showing the high levels of illiteracy and knowledge gap.<br> As a way of reducing the level of illiteracy and knowledge gap,The Bigminds Library was created</p>
+
+<img style="width:50%;" src="bigmindsbook2.jpg">
+<p>Some of the books available in our bookshop</p>
+<img style="width:50%;" src="bigmindsbook4.jpg">
+<p>Some of the books available in our bookshop</p>
+
+
+
+
+<h3 style="font-size:20px;text-align:center;px 20 px 30 px 40 px 20;color:red;">Why do we encourage people to read a lot of books</h3>
+<p style="line-height:2;">According to Jim Kwik,author of the best seller "Limitless" some benefits of reading are:<br>
+Reading improves your memory <br>Reading improves your focus<br> Reading improves you vocabulary<br> Readings improves your imagination <br>Readings improves understanding<br> Reading kicks your brain into gear</p>
+
+
+<a href="https://www.amazon.com/">josphatmusyoka</a>
+
+
+
+
+
+
+
